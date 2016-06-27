@@ -1,8 +1,8 @@
 # Remote Controller Usage
 
 1. Run target.py in terminal first, and keep the terminal opening.
-2. Run controller.py in a new terminal window, and enter keyboards in this window.
-
+2. Run controller.py in a new terminal window, and enter keys from keyboards in this window.
+#
 	U <--> Up
 	D <--> Down
 	R <--> Repeat
