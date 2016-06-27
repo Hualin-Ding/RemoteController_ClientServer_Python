@@ -3,9 +3,9 @@
 1. Run target.py in terminal first, and keep the terminal opening.
 2. Run controller.py in a new terminal window, and enter keyboards in this window.
 
-#	U <--> Up
-#	D <--> Down
-#	R <--> Repeat
+	U <--> Up
+	D <--> Down
+	R <--> Repeat
 	M <--> To query for most pressed button and how many times it was pressed
 	L <--> To query for least pressed button and how many times it was pressed
 	A <--> To activate an alarm on the server
