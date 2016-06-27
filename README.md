@@ -13,5 +13,5 @@
 	C <--> To Charge the remote controller battery
 	H <--> To print remote controller usage\
 	Q <--> To disconnect to server and exit
-    Ctrl+C <---> Will print Interrupt, NOT kill the current process
-    0-9 <--> Digits
+        Ctrl+C <---> Will print Interrupt, NOT kill the current process
+        0-9 <--> Digits
