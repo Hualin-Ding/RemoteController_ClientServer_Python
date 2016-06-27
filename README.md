@@ -3,7 +3,7 @@
 1. Run target.py in terminal first, and keep the terminal opening.
 2. Run controller.py in a new terminal window, and enter keyboards in this window.
 
-### Remote Controller Usage ### 
+# Remote Controller Usage
 	U <--> Up
 	D <--> Down
 	R <--> Repeat
@@ -14,5 +14,5 @@
 	C <--> To Charge the remote controller battery
 	H <--> To print remote controller usage\
 	Q <--> To disconnect to server and exit
-Ctrl+C <---> Will print Interrupt, NOT kill the current process
-     0-9 <--> Digits
+        Ctrl+C <---> Will print Interrupt, NOT kill the current process
+        0-9 <--> Digits
